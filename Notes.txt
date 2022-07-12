@@ -1,0 +1,4 @@
+pip list -> List dependencies
+pip freeze -> formatting the dependency list
+
+this formatted list is to be copied in requirements.txt
